@@ -1,0 +1,1 @@
+{"version":3,"sources":["marketmate/db.cljs"],"mappings":";AAGA,AAAA,AAAKA;AAEL,AAAA,AAAKC","names":["marketmate.db/forms-path","marketmate.db/default-db"],"sourcesContent":["(ns marketmate.db)\n\n\n(def forms-path :forms)\n\n(def default-db\n  {})\n"]}
